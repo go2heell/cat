@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+
+.parallax h1{
+	font-family: "Oswald";
+	font-size: 24px;
+	font-weight: 400;
+	color: black;
+}
+
+.parallax h2{
+	font-family: "Oswald";
+	font-size: 70px;
+	font-weight: 400;
+	letter-spacing: 10px;
+	color: black;
+	text-align: center;
+}
+
+.parallax h3{
+	font-family: "Oswald";
+	font-size: 14px;
+	font-weight: 400;
+	color: black;
+	letter-spacing: 8px;
+}
+
+.parallax p{
+	font-family: "Source Sans Pro";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.first{
+	font-weight: 400;
+	float: left;
+	font-size: 84px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-left: 3px;
+	font-family:"Source Sans Pro" ;
+	color: blue;
+}
+
+.title
